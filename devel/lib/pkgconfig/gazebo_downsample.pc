@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/demo_01/devel
-
-Name: gazebo_downsample
-Description: Description of gazebo_downsample
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
