@@ -1,0 +1,2 @@
+gmm_map_python/gazebo_downsample:gmm_map_python/gmm_map_python:gmm_map_python/send_targets:gmm_map_python/submap:gmm_map_python/turtle3sim:gmm_map_python/turtlebot3_description
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/demo_01/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/demo_01/install -G Unix Makefiles

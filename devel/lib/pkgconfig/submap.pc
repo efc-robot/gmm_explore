@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/demo_01/devel
+
+Name: submap
+Description: Description of submap
+Version: 0.0.0
+Cflags: -I/home/ubuntu/demo_01/devel/include -I/home/ubuntu/demo_01/src/gmm_map_python/submap/include
+Libs: -L${prefix}/lib -lsubmap
+Requires: roscpp rospy std_msgs message_runtime

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/demo_01/src/gmm_map_python/submap/include/submap/GMM.h
+fstream
+-
+cstring
+-
+cassert
+-
+
+/home/ubuntu/demo_01/src/gmm_map_python/submap/include/submap/KMeans.h
+fstream
+-
+cstring
+-
+cassert
+-
+
+/home/ubuntu/demo_01/src/gmm_map_python/submap/src/GMM.cpp
+math.h
+-
+iostream
+-
+submap/GMM.h
+/home/ubuntu/demo_01/src/gmm_map_python/submap/src/submap/GMM.h
+submap/KMeans.h
+/home/ubuntu/demo_01/src/gmm_map_python/submap/src/submap/KMeans.h
+
+/home/ubuntu/demo_01/src/gmm_map_python/submap/src/KMeans.cpp
+stdlib.h
+-
+math.h
+-
+time.h
+-
+iostream
+-
+submap/KMeans.h
+/home/ubuntu/demo_01/src/gmm_map_python/submap/src/submap/KMeans.h
+

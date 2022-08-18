@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/demo_01/devel
+
+Name: send_targets
+Description: Description of send_targets
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

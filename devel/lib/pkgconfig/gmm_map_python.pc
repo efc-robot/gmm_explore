@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/demo_01/devel
+
+Name: gmm_map_python
+Description: Description of gmm_map_python
+Version: 0.0.0
+Cflags: -I/home/ubuntu/demo_01/devel/include -I/home/ubuntu/demo_01/src/gmm_map_python/gmm_map_python/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime message_runtime

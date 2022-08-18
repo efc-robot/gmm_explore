@@ -1,0 +1,2 @@
+set(gmm_map_python_MESSAGE_FILES "/home/ubuntu/demo_01/src/gmm_map_python/gmm_map_python/msg/gmm.msg;/home/ubuntu/demo_01/src/gmm_map_python/gmm_map_python/msg/gmmlist.msg;/home/ubuntu/demo_01/src/gmm_map_python/gmm_map_python/msg/gmmFrame.msg;/home/ubuntu/demo_01/src/gmm_map_python/gmm_map_python/msg/Submap.msg;/home/ubuntu/demo_01/src/gmm_map_python/gmm_map_python/msg/SubmapList.msg;/home/ubuntu/demo_01/src/gmm_map_python/gmm_map_python/msg/SubmapEntry.msg")
+set(gmm_map_python_SERVICE_FILES "/home/ubuntu/demo_01/src/gmm_map_python/gmm_map_python/srv/FeatureExtraction.srv")

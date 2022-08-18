@@ -1,0 +1,10 @@
+(cl:defpackage gmm_map_python-srv
+  (:use )
+  (:export
+   "FEATUREEXTRACTION"
+   "<FEATUREEXTRACTION-REQUEST>"
+   "FEATUREEXTRACTION-REQUEST"
+   "<FEATUREEXTRACTION-RESPONSE>"
+   "FEATUREEXTRACTION-RESPONSE"
+  ))
+
